@@ -72,7 +72,7 @@ public class linkedList {
         return  val;
     }
 
-    public node
+    
     private class  Node{
         private int data;
         private Node next;
