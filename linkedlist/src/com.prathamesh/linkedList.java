@@ -52,7 +52,7 @@ public class linkedList {
 
     }
 
-    public
+    
     public void display(){
         Node temp = head;
         while (temp != null){
